@@ -10,7 +10,7 @@ Náš tým se skládá z čtyř členů, WaveLink, Lukosipo, Sajmonator a Bud1k.
 
 Komunikace je pro nás důležitá, ale jelikož jeden z naších členů není momentálně v Republice.
 
-Projekt je zatím neživý, ale jakmile si ujasníme co budeme dělat, začneme na něj pracovat.
+Projekt je zatím neaktivní, ale jakmile si ujasníme co budeme dělat, začneme na něj pracovat.
 
 Náš tým není zatím hotový, ale taky nehledáme nové lidi. Pokud chcete náš projekt podpořit, ale ne finančně, můžete nám pomoci s kouskem práce. 
 * Popřípadě nás kontaktujte na discordu *
